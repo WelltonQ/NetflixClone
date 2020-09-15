@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img width="300px" src="images/logo.jpg">
+    <img width="400px" src="images/logo.jpg">
     <br><br>
     <p align="center">
       <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,13 +8,6 @@
   </p>
 
 </h3>
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img src="https://img.shields.io/badge/Made%20by-Rocketseat-brightgreen&style=flat&logo">
-  </a>
-  <a>
-  <img src="https://img.shields.io/github/license/Suburbanno/Ecoleta?style=flat&logo">
-</p>
 
 ## 🔖 Sobre
 
@@ -25,6 +18,7 @@ O projeto consiste em fazer um clone do <strong>Netflix</strong> tendo como obje
 <p align="center">
 <img src="images/home.jpg">
 </p>
+
 
 <p align="center">
   <img width="500" src="images/NetflixDesktop.jpg">
@@ -55,7 +49,7 @@ A aula foi ministrada pelo **Bonieky Lacerda** no YouTube.
 
 ## 📝 License
 
-Direitos de imagem pertecem a Netflix e os dados foram obtidos da API do site themoviedb.org
+Direitos de imagem pertecem a Netflix e os dados da API foram obtidos no site themoviedb.org
 
 ---
 
