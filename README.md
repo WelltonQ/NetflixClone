@@ -43,7 +43,7 @@ A aula foi ministrada pelo **Bonieky Lacerda** no YouTube.
 
 - Faça um fork desse repositório;
 - Instale as dependências: `yarn install`;
-- Incie o projeto: `yarn start`;
+- Inicie o projeto: `yarn start`;
 - Acesse o navegador: `http://localhost:3000`.
 
 
